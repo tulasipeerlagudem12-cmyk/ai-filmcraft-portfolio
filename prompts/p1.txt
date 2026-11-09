@@ -1,0 +1,153 @@
+HawkEye AI CCTV: Innocent Thief
+
+Image prompts preserve the original scene briefs with minor cleanup. Video prompts are newly written motion adaptations, not the verbatim originals.
+
+Do not change the thief's face or body proportions. No masked robber, no extra characters unless requested, no weapons other than the specified small hammer, no spray bottle in the hammer shot, no CCTV camera in the arrest shot, no smiling police officers, no exaggerated police aggression, no distorted hands, no extra fingers, no floating vehicle parts, no incorrectly placed roof light bar, no unreadable or misspelled text, no random logos, no watermarks, no cartoon speech bubbles unless specifically requested.
+
+SHOT 1 - Thief caught on HawkEye AI CCTV
+
+IMAGE PROMPT:
+Night-time luxury residential compound, wet tiled driveway, dark garden and boundary wall. The same funny, dirty, stocky Indian thief stands on a small wooden stool, wearing a ragged brown hood/scarf and torn beige shorts. He points toward the camera with one hand and holds a small hammer in the other. A green AI tracking frame locks onto him. HawkEye AI CCTV surveillance HUD around the frame: REC indicator, FACE DETECTED, PERSON DETECTED, TRACKING ACTIVE, GPS LOCKED, solar backup active, 4K, 30 FPS. Dark cinematic security-camera viewpoint, ultra-realistic, 16:9.
+
+VIDEO PROMPT:
+A fixed high-mounted CCTV viewpoint at night. The thief balances awkwardly on a stool, raises a small hammer, then points toward the lens. The camera's green tracking box smoothly follows his body; face/person detection indicators activate one by one. Wet driveway reflections shimmer in the background. Maintain the same thief design and outfit. 16:9, realistic security-camera footage aesthetic.
+
+----
+
+SHOT 2 - Paint obstruction: visibility reduced to 10%
+
+IMAGE PROMPT:
+Same HawkEye CCTV surveillance composition and same thief. The camera lens/view is heavily splashed with dark spray paint. Thick, uneven paint smears and droplets cover almost the entire lens, leaving only about 10% visibility through a small partially clear area. The thief and garden are barely visible behind the paint. Keep a faint green tracking HUD visible through the obstruction, with a clear obstruction warning. 16:9.
+
+VIDEO PROMPT:
+Continue from the CCTV shot. The thief sprays paint directly toward the lens. Paint hits the glass in several thick splashes and slowly runs downward. The image becomes heavily blurred and nearly black, with only a small 10% clear patch remaining. The HUD flickers and changes to a camera obstruction/tamper warning. Fixed security-camera angle, 16:9.
+
+----
+
+SHOT 3 - Thief with small hammer
+
+IMAGE PROMPT:
+The same hooded, muddy thief on the stool, holding a small metal hammer upright in one hand and pointing toward the camera with the other. Keep his recognizable face, ragged hood, muddy body and torn beige shorts. Night-time luxury residential compound, wet ground, dark cinematic lighting, HawkEye AI CCTV tracking overlay, 16:9.
+
+VIDEO PROMPT:
+The thief grips a small hammer and hesitates, then raises it slightly while pointing accusingly toward the camera. His eyes dart toward the lens. Keep the hammer small and clearly visible; do not show a spray bottle. Subtle handheld/security-camera feel, 16:9.
+
+----
+
+SHOT 4 - Thief caught by police: comic reaction
+
+IMAGE PROMPT:
+The same dirty, stocky thief reacts in surprise as two Indian police officers arrive. He looks worried and comically defeated, with wide eyes, raised eyebrows, a sad downturned mouth and tense shoulders. He clutches his ragged hood/scarf. Night-time luxury residential compound, wet road, red and blue police lights in the background. The thief says in Bihari Hindi: “[Bihari Hindi line - text unreadable in source PDF; original needed]” Keep the composition expressive and funny, 16:9.
+
+VIDEO PROMPT:
+The thief hears the police arriving, turns suddenly toward the flashing lights, freezes, and gives a worried, comically sad expression. His shoulders slump and he mutters, “[Bihari Hindi line - text unreadable in source PDF; original needed]” in a Bihari Hindi delivery. Use a short comedic pause before the line. Police officers approach calmly in the background. 16:9.
+
+----
+
+SHOT 5 - Arrest inside the residential compound
+
+IMAGE PROMPT:
+Funny dirty thief being handcuffed by two Indian police officers inside a luxury residential compound at night. The thief looks sad, embarrassed and defeated in a comical way. Both police officers have neutral, professional expressions. Remove all CCTV cameras from the frame. Police jeep lights flash in the distance and reflect on the wet pavement. Premium commercial ending, cinematic lighting, ultra-realistic, ARRI Alexa 35, Cooke Anamorphic Lens, HDR, 8K, 16:9.
+
+VIDEO PROMPT:
+Two Indian police officers calmly handcuff the same thief. The thief's expression changes from surprise to exaggerated sadness and embarrassment; he lowers his head and slumps slightly. The officers remain neutral and professional, with no smiles or angry expressions. No CCTV unit visible. Red/blue lights pulse softly across the wet compound road. Cinematic slow push-in, 16:9.
+
+----
+
+SHOT 6 - Indian police command center
+
+IMAGE PROMPT:
+High-tech Indian police command center at night, giant LED wall displaying live HawkEye CCTV footage of the same thief, red emergency notification with GPS coordinates, multiple Indian police officers monitoring surveillance systems, futuristic dashboards, premium government command center, cinematic blue lighting, ultra-realistic, ARRI Alexa 35, HDR, 8K, 16:9.
+
+VIDEO PROMPT:
+Slow cinematic dolly through a modern Indian police command center. Officers monitor rows of screens while the giant LED wall displays the live HawkEye feed of the same thief. A red emergency alert appears with GPS coordinates and a pulsing location marker. Blue monitor light plays across the officers' faces. 16:9.
+
+----
+
+SHOT 7 - Officer urgently using walkie-talkie
+
+IMAGE PROMPT:
+Indian police control room officer urgently speaking into a walkie-talkie, large surveillance screens behind showing live HawkEye alert and GPS location, dramatic blue emergency lighting, cinematic realism, ultra-realistic, ARRI Alexa 35, HDR, 8K, 16:9.
+
+VIDEO PROMPT:
+Medium close-up of an Indian police control-room officer lifting a walkie-talkie and urgently relaying the HawkEye alert. He glances from the radio to the large surveillance screens behind him, where the red alert and GPS marker pulse. Controlled camera push-in, blue emergency lighting, 16:9.
+
+----
+
+SHOT 8 - Police SUV entering the colony
+
+IMAGE PROMPT:
+Indian police SUV rapidly entering a luxury residential colony at night with flashing red and blue emergency lights reflecting on the wet road, dramatic cinematic action, premium police response scene, ultra-realistic, ARRI Alexa 35, Cooke Anamorphic Lens, HDR, 8K, 16:9.
+
+VIDEO PROMPT:
+Low road-level tracking shot of an Indian police SUV turning through the open gate and accelerating onto the wet residential road. Red and blue roof lights flash and streak across puddles. Emphasize the vehicle's tyres and road contact, with believable weight, suspension and reflections. 16:9.
+
+----
+
+SHOT 9 - Police vehicle signal light close-up
+
+IMAGE PROMPT:
+Cinematic close-up of the red and blue emergency light bar mounted correctly on the roof of an Indian police SUV. The light bar is securely attached to the vehicle roof, seen from a low three-quarter angle, with rain droplets and dramatic reflections. Night-time luxury residential entrance in the background, premium photorealistic commercial look, 16:9.
+
+VIDEO PROMPT:
+Extreme close-up of the police SUV roof light bar, properly mounted on the roof. Red and blue LEDs alternate in a realistic emergency pattern. Camera eases backward to reveal the roofline and windshield edge, with wet-road reflections and soft rain. 16:9.
+
+----
+
+SHOT 10 - Damaged HawkEye CCTV macro / tamper alert
+
+IMAGE PROMPT:
+Extreme macro close-up of a heavily damaged HawkEye AI CCTV camera. The black housing is deeply cracked, dented, scraped and partially broken, with jagged fractures, loose casing pieces and paint splashes covering the lens and body. Digital holographic warning overlay displaying “CAMERA OBSTRUCTION DETECTED” and “EMERGENCY PROTOCOL ACTIVATED”. Glowing futuristic interface, premium AI technology commercial, ultra-realistic, HDR, ARRI Alexa 35, 8K, 16:9.
+
+VIDEO PROMPT:
+Macro camera move across the damaged HawkEye CCTV housing. Reveal deep cracks, chipped casing, bent edges, paint residue and a partially obstructed lens. Tiny status lights flicker. A holographic warning animates on: “CAMERA OBSTRUCTION DETECTED”, followed by “EMERGENCY PROTOCOL ACTIVATED”. Dramatic shallow depth of field, 16:9.
+
+----
+
+SHOT 11 - Exploded-view internal technology
+
+IMAGE PROMPT:
+Highly cinematic exploded-view visualization inside the HawkEye AI CCTV camera, glowing lens reflecting the thief destroying the camera, seamless transition through precision optical glass elements, AI image sensor, neural processing chip, encrypted secure storage module, embedded eSIM communication module, RF antenna transmitting bright blue data streams into a futuristic digital cloud, premium technology advertisement, ultra-realistic CGI-inspired photorealism, ARRI Alexa 35 aesthetic, HDR, 8K, 16:9.
+
+VIDEO PROMPT:
+Begin inside the glowing front lens, where a reflection shows the thief striking the camera. The camera then travels through the optical glass elements as the components separate into a precise exploded view: lens assembly, AI image sensor, neural processing chip, encrypted storage, embedded eSIM module and RF antenna. Blue data pulses travel from the antenna into a luminous digital cloud. Smooth seamless transitions, premium photorealistic CGI, 16:9.
+
+----
+
+SHOT 12 - HawkEye hero product shot with feature list
+
+IMAGE PROMPT:
+Premium hero shot of a black HawkEye AI CCTV camera, large and sharply focused against a dark cinematic background. Dramatic rim lighting, subtle blue highlights, glossy precision surfaces and a powerful lens reflection. Present clean, readable feature typography: “360° AI Tracking”, “Solar Backup”, “Built-in 4G SIM”, “Tamper Detection”, “Out Of Home Mode”, “Emergency Police Alert”. Leave clean negative space for the feature list. Premium technology advertisement, ultra-realistic, HDR, ARRI Alexa 35, 8K, 16:9. Voiceover: “Most cameras record crimes. Hawkeye helps stop them.”
+
+VIDEO PROMPT:
+Start with a dark frame. A narrow highlight reveals the HawkEye camera silhouette, then a slow cinematic orbit reveals the lens and 360-degree camera design. Each feature appears beside the product in sequence: 360° AI Tracking, Solar Backup, Built-in 4G SIM, Tamper Detection, Out Of Home Mode, Emergency Police Alert. Finish on a clean hero composition as the voiceover says: “Most cameras record crimes. Hawkeye helps stop them.” 16:9.
+
+----
+
+SHOT 13 - HawkEye logo end card
+
+IMAGE PROMPT:
+Create a premium logo lockup reading “HAWKEYE” with the tag “AI CCTV”. Use a bold, modern, high-tech typeface and a subtle embossed CCTV camera silhouette in the background as a watermark. Add the caption exactly: “ALWAYS WATCHING. ALWAYS PROTECTING.” Dark premium background, metallic embossed finish, restrained blue/green highlights, clean hierarchy, professional brand identity, 16:9.
+
+VIDEO PROMPT:
+Fade in from black to a subtle embossed CCTV-camera watermark. Metallic light travels across the HAWKEYE wordmark, followed by the smaller “AI CCTV” tag. The caption “ALWAYS WATCHING. ALWAYS PROTECTING.” fades in beneath it. Hold on a clean, premium brand end card. 16:9.
+
+----
+
+SHOT 14 - YouTube thumbnail: Innocent Thief
+
+IMAGE PROMPT:
+Create an eye-catching, funny YouTube thumbnail in a bold stylized comic/3D illustration look. Feature the same dirty, hooded thief in the foreground with a very worried, anxious expression: wide darting eyes, raised eyebrows, open tense mouth, sweat drops, hunched shoulders and hands clutching his ragged cloth. Show a HawkEye AI CCTV camera prominently in the upper-left, with its red detection light aimed at him. A police SUV with flashing red/blue lights appears in the rainy night background. Large attractive stylized title: “INNOCENT THIEF”, with “INNOCENT” in bright yellow and “THIEF” in bold white/red treatment. Highlight both the thief and HawkEye CCTV. No masked man, no speech bubble, no bubble text. Strong readable layout, vibrant contrast, 16:9.
+
+VIDEO PROMPT:
+Create a vertical 9:16 poster version of the “INNOCENT THIEF” thumbnail. Keep the same worried thief prominent in the lower half, clutching his ragged cloth, with wide anxious eyes, sweat drops and a comically frightened expression. Place the HawkEye camera near the top-left and the police SUV with flashing lights in the rainy background. Keep the title “INNOCENT THIEF” large, bold and readable in the upper-middle. No masked man and no speech bubble. 9:16.
+
+----
+
+SHOT 15 - Worried thief expression reference
+
+IMAGE PROMPT:
+Use the supplied thief character reference. Preserve his exact recognizable face, stocky body proportions, messy dark hair, ragged brown hood/scarf, muddy skin and torn beige shorts. Make his expression clearly worried and anxious rather than angry: wide eyes looking upward/sideways, raised inner eyebrows, tense open mouth, sweat on his face, shoulders drawn inward and hands clutching his cloth. Funny, sympathetic comic timing. Maintain character identity and outfit.
+
+VIDEO PROMPT:
+The thief notices the police lights and looks up in alarm. His eyes dart sideways, eyebrows rise, lower lip trembles and shoulders hunch. He clutches the cloth tighter, then freezes in an awkward worried pose. Preserve the reference character's face, proportions, hood and clothing. 9:16 or 16:9 as required.
