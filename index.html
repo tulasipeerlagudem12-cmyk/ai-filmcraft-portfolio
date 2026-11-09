@@ -1,4 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Prashanth Ajipuram — AI Filmcraft</title>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Ramu.P — AI Filmcraft</title>
 <style>
 :root{--bg:#0a0a0c;--sf:#141418;--tx:#ece8e1;--mu:#8d8a85;--ac:#d9a441;--ln:#26262c}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.6 Georgia,'Times New Roman',serif}
@@ -21,7 +21,7 @@ details{border:1px solid var(--ln);background:var(--sf);margin:8px 0}summary{pad
 .empty{color:var(--mu);padding:30px 0}.toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--ac);color:#111;padding:8px 18px;font:14px system-ui}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 </style></head><body>
-<header><a class="logo" href="#">PRASHANTH AJIPURAM</a><nav><a href="#projects">Projects</a><a href="#process">Process</a><a href="#contact">Contact</a></nav></header>
+<header><a class="logo" href="#">RAMU.P</a><nav><a href="#projects">Projects</a><a href="#process">Process</a><a href="#contact">Contact</a></nav></header>
 <main id="app"></main>
 <script src="data.js"></script>
 <script>
@@ -31,17 +31,17 @@ function toast(m){const t=h('div',{className:'toast',role:'status'},m);document.
 function copy(s){(navigator.clipboard?navigator.clipboard.writeText(s):Promise.reject()).then(()=>toast('Copied'),()=>{const t=h('textarea',{value:s});document.body.append(t);t.select();document.execCommand('copy');t.remove();toast('Copied')})}
 function modal(src){const c=()=>{l.remove();document.removeEventListener('keydown',k)},k=e=>e.key==='Escape'&&c();const v=/\.jpg$|^data:image/.test(src)?h('img',{src,alt:'Frame',style:'max-width:94vw;max-height:90vh'}):h('video',{src,controls:true,autoplay:true,playsInline:true,loop:true});const l=h('div',{className:'lb',role:'dialog','aria-modal':'true',on:{click:e=>e.target===l&&c()}},v,h('button',{ariaLabel:'Close',on:{click:c}},'\u00d7'));document.addEventListener('keydown',k);document.body.append(l);l.querySelector('button').focus()}
 let cat='All',q='';
-function home(){document.title='Prashanth Ajipuram \u2014 AI Filmcraft';
+function home(){document.title='Ramu.P \u2014 AI Filmcraft';
  const cats=['All',...new Set(P.map(p=>p.cat))],grid=h('div',{className:'grid'});
  const draw=()=>{grid.replaceChildren();const f=P.filter(p=>(cat==='All'||p.cat===cat)&&(p.title+p.desc+p.cat).toLowerCase().includes(q.toLowerCase()));
   if(!f.length)grid.append(h('p',{className:'empty'},'No projects match.'));
   f.forEach(p=>grid.append(h('a',{className:'card',href:'#project/'+p.id},h('img',{src:p.thumb,alt:p.title,loading:'lazy'}),h('div',{},h('span',{className:'num'},'PROJECT '+p.id),h('h3',{},p.title),h('span',{className:'mu'},p.cat+' \u00b7 '+p.shots.length+' shots'),h('p',{className:'mu'},p.desc)))))};
  const chips=h('div',{className:'bar'},h('input',{type:'search',placeholder:'Search projects\u2026',ariaLabel:'Search projects',on:{input:e=>{q=e.target.value;draw()}}}),cats.map(c=>h('button',{className:'chip'+(c===cat?' on':''),on:{click:e=>{cat=c;[...chips.querySelectorAll('.chip')].forEach(b=>b.classList.toggle('on',b===e.target));draw()}}},c)));
  draw();
- app.replaceChildren(h('section',{className:'hero'},h('span',{className:'num'},'PRASHANTH AJIPURAM \u00b7 AI FILMCRAFT'),h('h1',{},'Stories made with ',h('em',{},'AI'),', frame by frame.'),h('p',{className:'mu'},'A portfolio of AI-generated films: '+P.length+' projects, with the full prompts behind every shot.'),h('a',{className:'btn',href:'#projects'},'Explore Projects')),
+ app.replaceChildren(h('section',{className:'hero'},h('span',{className:'num'},'RAMU.P \u00b7 AI FILMCRAFT'),h('h1',{},'Stories made with ',h('em',{},'AI'),', frame by frame.'),h('p',{className:'mu'},'A portfolio of AI-generated films: '+P.length+' projects, with the full prompts behind every shot.'),h('a',{className:'btn',href:'#projects'},'Explore Projects')),
   h('section',{id:'projects'},h('h2',{},'Projects ('+P.length+')'),chips,grid),
-  h('section',{id:'process'},h('h2',{},'Creative process'),h('div',{className:'steps'},['Concept and narrative development','Character and environment references','Storyboard and shot planning','Cinematic prompt engineering','AI video generation','Review, refinement and continuity','Final film presentation'].map(s=>h('div',{},s)))),h('section',{id:'contact'},h('h2',{},'Contact'),h('p',{},'Prashanth Ajipuram'),h('p',{},h('a',{href:'mailto:prashanth3danimator@gmail.com'},'prashanth3danimator@gmail.com')),h('a',{className:'btn',href:'tel:9177433476'},'9177433476')))}
-function proj(id){const i=P.findIndex(p=>p.id===id);if(i<0)return home();const p=P[i],pr=P[i-1],nx=P[i+1];document.title=p.title+' \u2014 Prashanth Ajipuram';
+  h('section',{id:'process'},h('h2',{},'Creative process'),h('div',{className:'steps'},['Concept and narrative development','Character and environment references','Storyboard and shot planning','Cinematic prompt engineering','AI video generation','Review, refinement and continuity','Final film presentation'].map(s=>h('div',{},s)))),h('section',{id:'contact'},h('h2',{},'Contact'),h('p',{},'Ramu.P'),h('p',{},h('a',{href:'mailto:ramu3danim@gmail.com'},'ramu3danim@gmail.com')),h('a',{className:'btn',href:'tel:9581815880'},'9581815880')))}
+function proj(id){const i=P.findIndex(p=>p.id===id);if(i<0)return home();const p=P[i],pr=P[i-1],nx=P[i+1];document.title=p.title+' \u2014 Ramu.P';
  const v=h('video',{id:'wf',controls:true,playsInline:true,preload:'metadata',poster:p.thumb});let li=0;
  if(p.film)v.src=p.film;else{const pl=()=>{v.src=p.clips[li]&&'assets/p3/clips/'+p.clips[li]};pl();v.addEventListener('ended',()=>{if(li<p.clips.length-1){li++;pl();v.play()}})}
  const sp=h('select',{ariaLabel:'Speed',on:{change:e=>v.playbackRate=+e.target.value}},[.5,.75,1,1.25,1.5,2].map(s=>h('option',{value:s,selected:s===1},s+'\u00d7')));
